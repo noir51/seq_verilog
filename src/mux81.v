@@ -1,5 +1,6 @@
 module mux81 (d, sel, o);
 
+// ports
 input [0:7] d;
 input [0:2] sel;
 output reg o;

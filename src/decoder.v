@@ -1,5 +1,6 @@
 module decoder (c, s);
 
+// ports
 input [3:0] c;
 output reg [0:9] s;
 
